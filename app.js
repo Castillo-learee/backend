@@ -1,6 +1,6 @@
 import express from "express";
-import bookRoutes from '../routes/bookRoute.js';
-import studentRoutes from './routes/studentRoute.js';
+import bookRoutes from './routes/bookRoutes.js';
+import studentRoutes from './routes/';
 
 const app = express();
 
